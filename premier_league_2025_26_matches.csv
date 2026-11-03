@@ -1,0 +1,761 @@
+team_name,opposing_team,win_or_lose,goal_difference,date_played
+Liverpool,Bournemouth,w,2,15/8/25
+Bournemouth,Liverpool,l,-2,15/8/25
+Man City,Wolves,w,4,16/8/25
+Fulham,Brighton,d,0,16/8/25
+Newcastle,Aston Villa,d,0,16/8/25
+Burnley,Tottenham,l,-3,16/8/25
+West Ham,Sunderland,l,-3,16/8/25
+Brighton,Fulham,d,0,16/8/25
+Sunderland,West Ham,w,3,16/8/25
+Tottenham,Burnley,w,3,16/8/25
+Wolves,Man City,l,-4,16/8/25
+Aston Villa,Newcastle,d,0,16/8/25
+Nott'm Forest,Brentford,w,2,17/8/25
+Chelsea,Crystal Palace,d,0,17/8/25
+Brentford,Nott'm Forest,l,-2,17/8/25
+Crystal Palace,Chelsea,d,0,17/8/25
+Arsenal,Man United,w,1,17/8/25
+Man United,Arsenal,l,-1,17/8/25
+Everton,Leeds,l,-1,18/8/25
+Leeds,Everton,w,1,18/8/25
+Chelsea,West Ham,w,4,22/8/25
+West Ham,Chelsea,l,-4,22/8/25
+Leeds,Arsenal,l,-5,23/8/25
+Wolves,Bournemouth,l,-1,23/8/25
+Tottenham,Man City,w,2,23/8/25
+Man City,Tottenham,l,-2,23/8/25
+Bournemouth,Wolves,w,1,23/8/25
+Sunderland,Burnley,l,-2,23/8/25
+Brentford,Aston Villa,w,1,23/8/25
+Burnley,Sunderland,w,2,23/8/25
+Arsenal,Leeds,w,5,23/8/25
+Aston Villa,Brentford,l,-1,23/8/25
+Everton,Brighton,w,2,24/8/25
+Fulham,Man United,d,0,24/8/25
+Nott'm Forest,Crystal Palace,d,0,24/8/25
+Brighton,Everton,l,-2,24/8/25
+Man United,Fulham,d,0,24/8/25
+Crystal Palace,Nott'm Forest,d,0,24/8/25
+Liverpool,Newcastle,w,1,25/8/25
+Newcastle,Liverpool,l,-1,25/8/25
+Sunderland,Brentford,w,1,30/8/25
+Tottenham,Bournemouth,l,-1,30/8/25
+Wolves,Everton,l,-1,30/8/25
+Leeds,Newcastle,d,0,30/8/25
+Chelsea,Fulham,w,2,30/8/25
+Man United,Burnley,w,1,30/8/25
+Newcastle,Leeds,d,0,30/8/25
+Everton,Wolves,w,1,30/8/25
+Bournemouth,Tottenham,w,1,30/8/25
+Brentford,Sunderland,l,-1,30/8/25
+Burnley,Man United,l,-1,30/8/25
+Fulham,Chelsea,l,-2,30/8/25
+Arsenal,Liverpool,l,-1,31/8/25
+Crystal Palace,Aston Villa,w,3,31/8/25
+Liverpool,Arsenal,w,1,31/8/25
+Nott'm Forest,West Ham,l,-3,31/8/25
+Aston Villa,Crystal Palace,l,-3,31/8/25
+Brighton,Man City,w,1,31/8/25
+Man City,Brighton,l,-1,31/8/25
+West Ham,Nott'm Forest,w,3,31/8/25
+Sunderland,Crystal Palace,d,0,13/9/25
+Chelsea,Brentford,d,0,13/9/25
+Tottenham,West Ham,w,3,13/9/25
+Wolves,Newcastle,l,-1,13/9/25
+Leeds,Fulham,l,-1,13/9/25
+Aston Villa,Everton,d,0,13/9/25
+Brighton,Bournemouth,l,-1,13/9/25
+Nott'm Forest,Arsenal,l,-3,13/9/25
+Bournemouth,Brighton,w,1,13/9/25
+Arsenal,Nott'm Forest,w,3,13/9/25
+Crystal Palace,Sunderland,d,0,13/9/25
+Brentford,Chelsea,d,0,13/9/25
+Fulham,Leeds,w,1,13/9/25
+Newcastle,Wolves,w,1,13/9/25
+West Ham,Tottenham,l,-3,13/9/25
+Everton,Aston Villa,d,0,13/9/25
+Man United,Man City,l,-3,14/9/25
+Man City,Man United,w,3,14/9/25
+Burnley,Liverpool,l,-1,14/9/25
+Liverpool,Burnley,w,1,14/9/25
+Fulham,Brentford,w,2,20/9/25
+Everton,Liverpool,l,-1,20/9/25
+Tottenham,Brighton,d,0,20/9/25
+Nott'm Forest,Burnley,d,0,20/9/25
+Crystal Palace,West Ham,w,1,20/9/25
+Leeds,Wolves,w,2,20/9/25
+West Ham,Crystal Palace,l,-1,20/9/25
+Brentford,Fulham,l,-2,20/9/25
+Man United,Chelsea,w,1,20/9/25
+Liverpool,Everton,w,1,20/9/25
+Brighton,Tottenham,d,0,20/9/25
+Burnley,Nott'm Forest,d,0,20/9/25
+Wolves,Leeds,l,-2,20/9/25
+Chelsea,Man United,l,-1,20/9/25
+Bournemouth,Newcastle,d,0,21/9/25
+Arsenal,Man City,d,0,21/9/25
+Sunderland,Aston Villa,d,0,21/9/25
+Newcastle,Bournemouth,d,0,21/9/25
+Aston Villa,Sunderland,d,0,21/9/25
+Man City,Arsenal,d,0,21/9/25
+Nott'm Forest,Sunderland,l,-1,27/9/25
+Crystal Palace,Liverpool,w,1,27/9/25
+Chelsea,Brighton,l,-2,27/9/25
+Wolves,Tottenham,d,0,27/9/25
+Sunderland,Nott'm Forest,w,1,27/9/25
+Burnley,Man City,l,-4,27/9/25
+Brighton,Chelsea,w,2,27/9/25
+Liverpool,Crystal Palace,l,-1,27/9/25
+Brentford,Man United,w,2,27/9/25
+Man United,Brentford,l,-2,27/9/25
+Tottenham,Wolves,d,0,27/9/25
+Leeds,Bournemouth,d,0,27/9/25
+Bournemouth,Leeds,d,0,27/9/25
+Man City,Burnley,w,4,27/9/25
+Aston Villa,Fulham,w,2,28/9/25
+Fulham,Aston Villa,l,-2,28/9/25
+Arsenal,Newcastle,w,1,28/9/25
+Newcastle,Arsenal,l,-1,28/9/25
+Everton,West Ham,d,0,29/9/25
+West Ham,Everton,d,0,29/9/25
+Bournemouth,Fulham,w,2,3/10/25
+Fulham,Bournemouth,l,-2,3/10/25
+Chelsea,Liverpool,w,1,4/10/25
+Man United,Sunderland,w,2,4/10/25
+Arsenal,West Ham,w,2,4/10/25
+Leeds,Tottenham,l,-1,4/10/25
+Tottenham,Leeds,w,1,4/10/25
+West Ham,Arsenal,l,-2,4/10/25
+Sunderland,Man United,l,-2,4/10/25
+Liverpool,Chelsea,l,-1,4/10/25
+Brentford,Man City,l,-1,5/10/25
+Man City,Brentford,w,1,5/10/25
+Brighton,Wolves,d,0,5/10/25
+Nott'm Forest,Newcastle,l,-2,5/10/25
+Crystal Palace,Everton,l,-1,5/10/25
+Burnley,Aston Villa,l,-1,5/10/25
+Aston Villa,Burnley,w,1,5/10/25
+Everton,Crystal Palace,w,1,5/10/25
+Newcastle,Nott'm Forest,w,2,5/10/25
+Wolves,Brighton,d,0,5/10/25
+Chelsea,Nott'm Forest,w,3,18/10/25
+Newcastle,Brighton,l,-1,18/10/25
+Leeds,Burnley,l,-2,18/10/25
+Bournemouth,Crystal Palace,d,0,18/10/25
+Everton,Man City,l,-2,18/10/25
+Wolves,Sunderland,l,-2,18/10/25
+Arsenal,Fulham,w,1,18/10/25
+Nott'm Forest,Chelsea,l,-3,18/10/25
+Burnley,Leeds,w,2,18/10/25
+Crystal Palace,Bournemouth,d,0,18/10/25
+Man City,Everton,w,2,18/10/25
+Brighton,Newcastle,w,1,18/10/25
+Fulham,Arsenal,l,-1,18/10/25
+Sunderland,Wolves,w,2,18/10/25
+Tottenham,Aston Villa,l,-1,19/10/25
+Liverpool,Man United,l,-1,19/10/25
+Aston Villa,Tottenham,w,1,19/10/25
+Man United,Liverpool,w,1,19/10/25
+West Ham,Brentford,l,-2,20/10/25
+Brentford,West Ham,w,2,20/10/25
+Leeds,West Ham,w,1,24/10/25
+West Ham,Leeds,l,-1,24/10/25
+Chelsea,Sunderland,l,-1,25/10/25
+Brentford,Liverpool,w,1,25/10/25
+Man United,Brighton,w,2,25/10/25
+Liverpool,Brentford,l,-1,25/10/25
+Brighton,Man United,l,-2,25/10/25
+Fulham,Newcastle,l,-1,25/10/25
+Sunderland,Chelsea,w,1,25/10/25
+Newcastle,Fulham,w,1,25/10/25
+Bournemouth,Nott'm Forest,w,2,26/10/25
+Aston Villa,Man City,w,1,26/10/25
+Arsenal,Crystal Palace,w,1,26/10/25
+Everton,Tottenham,l,-3,26/10/25
+Crystal Palace,Arsenal,l,-1,26/10/25
+Man City,Aston Villa,l,-1,26/10/25
+Nott'm Forest,Bournemouth,l,-2,26/10/25
+Burnley,Wolves,w,1,26/10/25
+Tottenham,Everton,w,3,26/10/25
+Wolves,Burnley,l,-1,26/10/25
+Fulham,Wolves,w,3,1/11/25
+Crystal Palace,Brentford,w,2,1/11/25
+Burnley,Arsenal,l,-2,1/11/25
+Brighton,Leeds,w,3,1/11/25
+Tottenham,Chelsea,l,-1,1/11/25
+Nott'm Forest,Man United,d,0,1/11/25
+Leeds,Brighton,l,-3,1/11/25
+Liverpool,Aston Villa,w,2,1/11/25
+Chelsea,Tottenham,w,1,1/11/25
+Man United,Nott'm Forest,d,0,1/11/25
+Wolves,Fulham,l,-3,1/11/25
+Brentford,Crystal Palace,l,-2,1/11/25
+Arsenal,Burnley,w,2,1/11/25
+Aston Villa,Liverpool,l,-2,1/11/25
+Newcastle,West Ham,l,-2,2/11/25
+Man City,Bournemouth,w,2,2/11/25
+Bournemouth,Man City,l,-2,2/11/25
+West Ham,Newcastle,w,2,2/11/25
+Sunderland,Everton,d,0,3/11/25
+Everton,Sunderland,d,0,3/11/25
+Wolves,Chelsea,l,-3,8/11/25
+Sunderland,Arsenal,d,0,8/11/25
+Chelsea,Wolves,w,3,8/11/25
+Man United,Tottenham,d,0,8/11/25
+Arsenal,Sunderland,d,0,8/11/25
+Fulham,Everton,l,-2,8/11/25
+West Ham,Burnley,w,1,8/11/25
+Burnley,West Ham,l,-1,8/11/25
+Tottenham,Man United,d,0,8/11/25
+Everton,Fulham,w,2,8/11/25
+Bournemouth,Aston Villa,l,-4,9/11/25
+Newcastle,Brentford,l,-2,9/11/25
+Aston Villa,Bournemouth,w,4,9/11/25
+Brentford,Newcastle,w,2,9/11/25
+Crystal Palace,Brighton,d,0,9/11/25
+Liverpool,Man City,l,-3,9/11/25
+Leeds,Nott'm Forest,l,-2,9/11/25
+Brighton,Crystal Palace,d,0,9/11/25
+Nott'm Forest,Leeds,w,2,9/11/25
+Man City,Liverpool,w,3,9/11/25
+Burnley,Chelsea,l,-2,22/11/25
+Bournemouth,West Ham,d,0,22/11/25
+Sunderland,Fulham,l,-1,22/11/25
+Brentford,Brighton,l,-1,22/11/25
+Liverpool,Nott'm Forest,l,-3,22/11/25
+Wolves,Crystal Palace,l,-2,22/11/25
+Newcastle,Man City,w,1,22/11/25
+Chelsea,Burnley,w,2,22/11/25
+West Ham,Bournemouth,d,0,22/11/25
+Man City,Newcastle,l,-1,22/11/25
+Crystal Palace,Wolves,w,2,22/11/25
+Nott'm Forest,Liverpool,w,3,22/11/25
+Brighton,Brentford,w,1,22/11/25
+Fulham,Sunderland,w,1,22/11/25
+Leeds,Aston Villa,l,-1,23/11/25
+Tottenham,Arsenal,l,-3,23/11/25
+Arsenal,Tottenham,w,3,23/11/25
+Aston Villa,Leeds,w,1,23/11/25
+Man United,Everton,l,-1,24/11/25
+Everton,Man United,w,1,24/11/25
+Fulham,Tottenham,w,1,29/11/25
+Leeds,Man City,l,-1,29/11/25
+Bournemouth,Sunderland,l,-1,29/11/25
+Newcastle,Everton,w,3,29/11/25
+Everton,Newcastle,l,-3,29/11/25
+Sunderland,Bournemouth,w,1,29/11/25
+Man City,Leeds,w,1,29/11/25
+Brentford,Burnley,w,2,29/11/25
+Burnley,Brentford,l,-2,29/11/25
+Tottenham,Fulham,l,-1,29/11/25
+Wolves,Aston Villa,l,-1,30/11/25
+Brighton,Nott'm Forest,w,2,30/11/25
+Man United,Crystal Palace,w,1,30/11/25
+Liverpool,West Ham,w,2,30/11/25
+Arsenal,Chelsea,d,0,30/11/25
+Crystal Palace,Man United,l,-1,30/11/25
+Nott'm Forest,Brighton,l,-2,30/11/25
+West Ham,Liverpool,l,-2,30/11/25
+Chelsea,Arsenal,d,0,30/11/25
+Aston Villa,Wolves,w,1,30/11/25
+Newcastle,Tottenham,d,0,2/12/25
+Fulham,Man City,l,-1,2/12/25
+Everton,Bournemouth,w,1,2/12/25
+Man City,Fulham,w,1,2/12/25
+Tottenham,Newcastle,d,0,2/12/25
+Bournemouth,Everton,l,-1,2/12/25
+Burnley,Crystal Palace,l,-1,3/12/25
+Wolves,Nott'm Forest,l,-1,3/12/25
+Leeds,Chelsea,w,2,3/12/25
+Liverpool,Sunderland,d,0,3/12/25
+Brighton,Aston Villa,l,-1,3/12/25
+Brentford,Arsenal,l,-2,3/12/25
+Aston Villa,Brighton,w,1,3/12/25
+Crystal Palace,Burnley,w,1,3/12/25
+Nott'm Forest,Wolves,w,1,3/12/25
+Chelsea,Leeds,l,-2,3/12/25
+Sunderland,Liverpool,d,0,3/12/25
+Arsenal,Brentford,w,2,3/12/25
+Man United,West Ham,d,0,4/12/25
+West Ham,Man United,d,0,4/12/25
+Liverpool,Leeds,d,0,6/12/25
+Brentford,Tottenham,l,-2,6/12/25
+Burnley,Newcastle,l,-1,6/12/25
+Sunderland,Man City,l,-3,6/12/25
+Nott'm Forest,Everton,l,-3,6/12/25
+Arsenal,Aston Villa,l,-1,6/12/25
+Chelsea,Bournemouth,d,0,6/12/25
+Bournemouth,Chelsea,d,0,6/12/25
+Everton,Nott'm Forest,w,3,6/12/25
+Man City,Sunderland,w,3,6/12/25
+Newcastle,Burnley,w,1,6/12/25
+Tottenham,Brentford,w,2,6/12/25
+Leeds,Liverpool,d,0,6/12/25
+Aston Villa,Arsenal,w,1,6/12/25
+West Ham,Brighton,d,0,7/12/25
+Brighton,West Ham,d,0,7/12/25
+Crystal Palace,Fulham,w,1,7/12/25
+Fulham,Crystal Palace,l,-1,7/12/25
+Man United,Wolves,w,3,8/12/25
+Wolves,Man United,l,-3,8/12/25
+Arsenal,Wolves,w,1,13/12/25
+Chelsea,Everton,w,2,13/12/25
+Burnley,Fulham,l,-1,13/12/25
+Liverpool,Brighton,w,2,13/12/25
+Brighton,Liverpool,l,-2,13/12/25
+Everton,Chelsea,l,-2,13/12/25
+Wolves,Arsenal,l,-1,13/12/25
+Fulham,Burnley,w,1,13/12/25
+Man City,Crystal Palace,w,3,14/12/25
+Tottenham,Nott'm Forest,l,-3,14/12/25
+Newcastle,Sunderland,l,-1,14/12/25
+Aston Villa,West Ham,w,1,14/12/25
+Crystal Palace,Man City,l,-3,14/12/25
+Nott'm Forest,Tottenham,w,3,14/12/25
+Leeds,Brentford,d,0,14/12/25
+Sunderland,Newcastle,w,1,14/12/25
+West Ham,Aston Villa,l,-1,14/12/25
+Brentford,Leeds,d,0,14/12/25
+Bournemouth,Man United,d,0,15/12/25
+Man United,Bournemouth,d,0,15/12/25
+Newcastle,Chelsea,d,0,20/12/25
+Brentford,Wolves,w,2,20/12/25
+Liverpool,Tottenham,w,1,20/12/25
+Arsenal,Everton,w,1,20/12/25
+Crystal Palace,Leeds,l,-3,20/12/25
+Burnley,Bournemouth,d,0,20/12/25
+Chelsea,Newcastle,d,0,20/12/25
+Sunderland,Brighton,d,0,20/12/25
+Tottenham,Liverpool,l,-1,20/12/25
+Bournemouth,Burnley,d,0,20/12/25
+Brighton,Sunderland,d,0,20/12/25
+Man City,West Ham,w,3,20/12/25
+Everton,Arsenal,l,-1,20/12/25
+West Ham,Man City,l,-3,20/12/25
+Wolves,Brentford,l,-2,20/12/25
+Leeds,Crystal Palace,w,3,20/12/25
+Man United,Aston Villa,l,-1,21/12/25
+Aston Villa,Man United,w,1,21/12/25
+Nott'm Forest,Fulham,l,-1,22/12/25
+Fulham,Nott'm Forest,w,1,22/12/25
+Newcastle,Man United,l,-1,26/12/25
+Man United,Newcastle,w,1,26/12/25
+Liverpool,Wolves,w,1,27/12/25
+West Ham,Fulham,l,-1,27/12/25
+Chelsea,Aston Villa,l,-1,27/12/25
+Nott'm Forest,Man City,l,-1,27/12/25
+Burnley,Everton,d,0,27/12/25
+Arsenal,Brighton,w,1,27/12/25
+Brentford,Bournemouth,w,3,27/12/25
+Brighton,Arsenal,l,-1,27/12/25
+Aston Villa,Chelsea,w,1,27/12/25
+Fulham,West Ham,w,1,27/12/25
+Man City,Nott'm Forest,w,1,27/12/25
+Everton,Burnley,d,0,27/12/25
+Bournemouth,Brentford,l,-3,27/12/25
+Wolves,Liverpool,l,-1,27/12/25
+Leeds,Sunderland,d,0,28/12/25
+Tottenham,Crystal Palace,w,1,28/12/25
+Sunderland,Leeds,d,0,28/12/25
+Crystal Palace,Tottenham,l,-1,28/12/25
+Wolves,Man United,d,0,30/12/25
+West Ham,Brighton,d,0,30/12/25
+Nott'm Forest,Everton,l,-2,30/12/25
+Aston Villa,Arsenal,l,-3,30/12/25
+Chelsea,Bournemouth,d,0,30/12/25
+Burnley,Newcastle,l,-2,30/12/25
+Arsenal,Aston Villa,w,3,30/12/25
+Man United,Wolves,d,0,30/12/25
+Brighton,West Ham,d,0,30/12/25
+Everton,Nott'm Forest,w,2,30/12/25
+Bournemouth,Chelsea,d,0,30/12/25
+Newcastle,Burnley,w,2,30/12/25
+Crystal Palace,Fulham,d,0,1/1/26
+Sunderland,Man City,d,0,1/1/26
+Liverpool,Leeds,d,0,1/1/26
+Brentford,Tottenham,d,0,1/1/26
+Fulham,Crystal Palace,d,0,1/1/26
+Leeds,Liverpool,d,0,1/1/26
+Tottenham,Brentford,d,0,1/1/26
+Man City,Sunderland,d,0,1/1/26
+Aston Villa,Nott'm Forest,w,2,3/1/26
+Wolves,West Ham,w,3,3/1/26
+Arsenal,Bournemouth,w,1,3/1/26
+West Ham,Wolves,l,-3,3/1/26
+Brighton,Burnley,w,2,3/1/26
+Bournemouth,Arsenal,l,-1,3/1/26
+Burnley,Brighton,l,-2,3/1/26
+Nott'm Forest,Aston Villa,l,-2,3/1/26
+Everton,Brentford,l,-2,4/1/26
+Leeds,Man United,d,0,4/1/26
+Newcastle,Crystal Palace,w,2,4/1/26
+Man City,Chelsea,d,0,4/1/26
+Chelsea,Man City,d,0,4/1/26
+Sunderland,Tottenham,d,0,4/1/26
+Tottenham,Sunderland,d,0,4/1/26
+Crystal Palace,Newcastle,l,-2,4/1/26
+Brentford,Everton,w,2,4/1/26
+Man United,Leeds,d,0,4/1/26
+Liverpool,Fulham,d,0,4/1/26
+Fulham,Liverpool,d,0,4/1/26
+Nott'm Forest,West Ham,w,1,6/1/26
+West Ham,Nott'm Forest,l,-1,6/1/26
+Fulham,Chelsea,w,1,7/1/26
+Everton,Wolves,d,0,7/1/26
+Crystal Palace,Aston Villa,d,0,7/1/26
+Brentford,Sunderland,w,3,7/1/26
+Bournemouth,Tottenham,w,1,7/1/26
+Man City,Brighton,d,0,7/1/26
+Burnley,Man United,d,0,7/1/26
+Newcastle,Leeds,w,1,7/1/26
+Aston Villa,Crystal Palace,d,0,7/1/26
+Man United,Burnley,d,0,7/1/26
+Brighton,Man City,d,0,7/1/26
+Chelsea,Fulham,l,-1,7/1/26
+Wolves,Everton,d,0,7/1/26
+Sunderland,Brentford,l,-3,7/1/26
+Tottenham,Bournemouth,l,-1,7/1/26
+Leeds,Newcastle,l,-1,7/1/26
+Liverpool,Arsenal,d,0,8/1/26
+Arsenal,Liverpool,d,0,8/1/26
+Man City,Man United,l,-2,17/1/26
+Man United,Man City,w,2,17/1/26
+Brentford,Chelsea,l,-2,17/1/26
+Leeds,Fulham,w,1,17/1/26
+Chelsea,Brentford,w,2,17/1/26
+Arsenal,Nott'm Forest,d,0,17/1/26
+West Ham,Tottenham,w,1,17/1/26
+Crystal Palace,Sunderland,l,-1,17/1/26
+Fulham,Leeds,l,-1,17/1/26
+Burnley,Liverpool,d,0,17/1/26
+Sunderland,Crystal Palace,w,1,17/1/26
+Liverpool,Burnley,d,0,17/1/26
+Nott'm Forest,Arsenal,d,0,17/1/26
+Tottenham,West Ham,l,-1,17/1/26
+Everton,Aston Villa,w,1,18/1/26
+Newcastle,Wolves,d,0,18/1/26
+Aston Villa,Everton,l,-1,18/1/26
+Wolves,Newcastle,d,0,18/1/26
+Bournemouth,Brighton,d,0,19/1/26
+Brighton,Bournemouth,d,0,19/1/26
+Man City,Wolves,w,2,24/1/26
+Fulham,Brighton,w,1,24/1/26
+Burnley,Tottenham,d,0,24/1/26
+West Ham,Sunderland,w,2,24/1/26
+Sunderland,West Ham,l,-2,24/1/26
+Liverpool,Bournemouth,l,-1,24/1/26
+Wolves,Man City,l,-2,24/1/26
+Brighton,Fulham,l,-1,24/1/26
+Bournemouth,Liverpool,w,1,24/1/26
+Tottenham,Burnley,d,0,24/1/26
+Man United,Arsenal,w,1,25/1/26
+Chelsea,Crystal Palace,w,2,25/1/26
+Aston Villa,Newcastle,w,2,25/1/26
+Newcastle,Aston Villa,l,-2,25/1/26
+Crystal Palace,Chelsea,l,-2,25/1/26
+Brentford,Nott'm Forest,l,-2,25/1/26
+Nott'm Forest,Brentford,w,2,25/1/26
+Arsenal,Man United,l,-1,25/1/26
+Leeds,Everton,d,0,26/1/26
+Everton,Leeds,d,0,26/1/26
+Arsenal,Leeds,w,4,31/1/26
+Leeds,Arsenal,l,-4,31/1/26
+Newcastle,Liverpool,l,-3,31/1/26
+West Ham,Chelsea,l,-1,31/1/26
+Brighton,Everton,d,0,31/1/26
+Bournemouth,Wolves,w,2,31/1/26
+Everton,Brighton,d,0,31/1/26
+Liverpool,Newcastle,w,3,31/1/26
+Chelsea,West Ham,w,1,31/1/26
+Wolves,Bournemouth,l,-2,31/1/26
+Nott'm Forest,Crystal Palace,d,0,1/2/26
+Tottenham,Man City,d,0,1/2/26
+Fulham,Man United,l,-1,1/2/26
+Aston Villa,Brentford,l,-1,1/2/26
+Man City,Tottenham,d,0,1/2/26
+Crystal Palace,Nott'm Forest,d,0,1/2/26
+Man United,Fulham,w,1,1/2/26
+Brentford,Aston Villa,w,1,1/2/26
+Sunderland,Burnley,w,3,2/2/26
+Burnley,Sunderland,l,-3,2/2/26
+Nott'm Forest,Leeds,l,-2,6/2/26
+Leeds,Nott'm Forest,w,2,6/2/26
+Sunderland,Arsenal,l,-3,7/2/26
+Aston Villa,Bournemouth,d,0,7/2/26
+Tottenham,Man United,l,-2,7/2/26
+Burnley,West Ham,l,-2,7/2/26
+Arsenal,Sunderland,w,3,7/2/26
+Bournemouth,Aston Villa,d,0,7/2/26
+Fulham,Everton,l,-1,7/2/26
+Wolves,Chelsea,l,-2,7/2/26
+Newcastle,Brentford,l,-1,7/2/26
+Everton,Fulham,w,1,7/2/26
+Brentford,Newcastle,w,1,7/2/26
+Chelsea,Wolves,w,2,7/2/26
+Man United,Tottenham,w,2,7/2/26
+West Ham,Burnley,w,2,7/2/26
+Brighton,Crystal Palace,l,-1,8/2/26
+Liverpool,Man City,l,-1,8/2/26
+Man City,Liverpool,w,1,8/2/26
+Crystal Palace,Brighton,w,1,8/2/26
+Chelsea,Leeds,d,0,10/2/26
+Tottenham,Newcastle,l,-1,10/2/26
+Leeds,Chelsea,d,0,10/2/26
+Bournemouth,Everton,w,1,10/2/26
+Newcastle,Tottenham,w,1,10/2/26
+Man United,West Ham,d,0,10/2/26
+West Ham,Man United,d,0,10/2/26
+Everton,Bournemouth,l,-1,10/2/26
+Brighton,Aston Villa,l,-1,11/2/26
+Burnley,Crystal Palace,w,1,11/2/26
+Wolves,Nott'm Forest,d,0,11/2/26
+Nott'm Forest,Wolves,d,0,11/2/26
+Liverpool,Sunderland,w,1,11/2/26
+Fulham,Man City,l,-3,11/2/26
+Sunderland,Liverpool,l,-1,11/2/26
+Man City,Fulham,w,3,11/2/26
+Crystal Palace,Burnley,l,-1,11/2/26
+Aston Villa,Brighton,w,1,11/2/26
+Brentford,Arsenal,d,0,12/2/26
+Arsenal,Brentford,d,0,12/2/26
+Wolves,Arsenal,d,0,18/2/26
+Arsenal,Wolves,d,0,18/2/26
+West Ham,Bournemouth,d,0,21/2/26
+Man City,Newcastle,w,1,21/2/26
+Aston Villa,Leeds,d,0,21/2/26
+Leeds,Aston Villa,d,0,21/2/26
+Brighton,Brentford,w,2,21/2/26
+Burnley,Chelsea,d,0,21/2/26
+Chelsea,Burnley,d,0,21/2/26
+Bournemouth,West Ham,d,0,21/2/26
+Newcastle,Man City,l,-1,21/2/26
+Brentford,Brighton,l,-2,21/2/26
+Fulham,Sunderland,w,2,22/2/26
+Liverpool,Nott'm Forest,w,1,22/2/26
+Tottenham,Arsenal,l,-3,22/2/26
+Sunderland,Fulham,l,-2,22/2/26
+Wolves,Crystal Palace,l,-1,22/2/26
+Crystal Palace,Wolves,w,1,22/2/26
+Arsenal,Tottenham,w,3,22/2/26
+Nott'm Forest,Liverpool,l,-1,22/2/26
+Man United,Everton,w,1,23/2/26
+Everton,Man United,l,-1,23/2/26
+Wolves,Aston Villa,w,2,27/2/26
+Aston Villa,Wolves,l,-2,27/2/26
+Sunderland,Bournemouth,d,0,28/2/26
+West Ham,Liverpool,l,-3,28/2/26
+Everton,Newcastle,w,1,28/2/26
+Leeds,Man City,l,-1,28/2/26
+Newcastle,Everton,l,-1,28/2/26
+Liverpool,West Ham,w,3,28/2/26
+Burnley,Brentford,l,-1,28/2/26
+Bournemouth,Sunderland,d,0,28/2/26
+Man City,Leeds,w,1,28/2/26
+Brentford,Burnley,w,1,28/2/26
+Nott'm Forest,Brighton,l,-1,1/3/26
+Man United,Crystal Palace,w,1,1/3/26
+Arsenal,Chelsea,w,1,1/3/26
+Fulham,Tottenham,w,1,1/3/26
+Tottenham,Fulham,l,-1,1/3/26
+Crystal Palace,Man United,l,-1,1/3/26
+Brighton,Nott'm Forest,w,1,1/3/26
+Chelsea,Arsenal,l,-1,1/3/26
+Liverpool,Wolves,l,-1,3/3/26
+Brentford,Bournemouth,d,0,3/3/26
+Burnley,Everton,l,-2,3/3/26
+Sunderland,Leeds,w,1,3/3/26
+Wolves,Liverpool,w,1,3/3/26
+Bournemouth,Brentford,d,0,3/3/26
+Everton,Burnley,w,2,3/3/26
+Leeds,Sunderland,l,-1,3/3/26
+Newcastle,Man United,w,1,4/3/26
+Man City,Nott'm Forest,d,0,4/3/26
+Fulham,West Ham,l,-1,4/3/26
+Brighton,Arsenal,l,-1,4/3/26
+Aston Villa,Chelsea,l,-3,4/3/26
+Arsenal,Brighton,w,1,4/3/26
+Chelsea,Aston Villa,w,3,4/3/26
+West Ham,Fulham,w,1,4/3/26
+Man United,Newcastle,l,-1,4/3/26
+Nott'm Forest,Man City,d,0,4/3/26
+Crystal Palace,Tottenham,w,2,5/3/26
+Tottenham,Crystal Palace,l,-2,5/3/26
+Man City,West Ham,d,0,14/3/26
+Newcastle,Chelsea,w,1,14/3/26
+Everton,Arsenal,l,-2,14/3/26
+Brighton,Sunderland,w,1,14/3/26
+Bournemouth,Burnley,d,0,14/3/26
+Burnley,Bournemouth,d,0,14/3/26
+Sunderland,Brighton,l,-1,14/3/26
+Arsenal,Everton,w,2,14/3/26
+Chelsea,Newcastle,l,-1,14/3/26
+West Ham,Man City,d,0,14/3/26
+Man United,Aston Villa,w,2,15/3/26
+Leeds,Crystal Palace,d,0,15/3/26
+Aston Villa,Man United,l,-2,15/3/26
+Tottenham,Liverpool,d,0,15/3/26
+Nott'm Forest,Fulham,d,0,15/3/26
+Fulham,Nott'm Forest,d,0,15/3/26
+Liverpool,Tottenham,d,0,15/3/26
+Crystal Palace,Leeds,d,0,15/3/26
+Wolves,Brentford,d,0,16/3/26
+Brentford,Wolves,d,0,16/3/26
+Bournemouth,Man United,d,0,20/3/26
+Man United,Bournemouth,d,0,20/3/26
+Leeds,Brentford,d,0,21/3/26
+Brighton,Liverpool,w,1,21/3/26
+Everton,Chelsea,w,3,21/3/26
+Liverpool,Brighton,l,-1,21/3/26
+Burnley,Fulham,l,-2,21/3/26
+Chelsea,Everton,l,-3,21/3/26
+Brentford,Leeds,d,0,21/3/26
+Fulham,Burnley,w,2,21/3/26
+Aston Villa,West Ham,w,2,22/3/26
+Newcastle,Sunderland,l,-1,22/3/26
+Sunderland,Newcastle,w,1,22/3/26
+West Ham,Aston Villa,l,-2,22/3/26
+Nott'm Forest,Tottenham,w,3,22/3/26
+Tottenham,Nott'm Forest,l,-3,22/3/26
+West Ham,Wolves,w,4,10/4/26
+Wolves,West Ham,l,-4,10/4/26
+Bournemouth,Arsenal,w,1,11/4/26
+Burnley,Brighton,l,-2,11/4/26
+Liverpool,Fulham,w,2,11/4/26
+Fulham,Liverpool,l,-2,11/4/26
+Brighton,Burnley,w,2,11/4/26
+Everton,Brentford,d,0,11/4/26
+Brentford,Everton,d,0,11/4/26
+Arsenal,Bournemouth,l,-1,11/4/26
+Nott'm Forest,Aston Villa,d,0,12/4/26
+Sunderland,Tottenham,w,1,12/4/26
+Chelsea,Man City,l,-3,12/4/26
+Man City,Chelsea,w,3,12/4/26
+Tottenham,Sunderland,l,-1,12/4/26
+Aston Villa,Nott'm Forest,d,0,12/4/26
+Newcastle,Crystal Palace,l,-1,12/4/26
+Crystal Palace,Newcastle,w,1,12/4/26
+Leeds,Man United,w,1,13/4/26
+Man United,Leeds,l,-1,13/4/26
+Wolves,Leeds,l,-3,18/4/26
+Brighton,Tottenham,d,0,18/4/26
+Chelsea,Man United,l,-1,18/4/26
+Bournemouth,Newcastle,w,1,18/4/26
+Tottenham,Brighton,d,0,18/4/26
+Fulham,Brentford,d,0,18/4/26
+Leeds,Wolves,w,3,18/4/26
+Brentford,Fulham,d,0,18/4/26
+Newcastle,Bournemouth,l,-1,18/4/26
+Man United,Chelsea,w,1,18/4/26
+Nott'm Forest,Burnley,w,3,19/4/26
+Man City,Arsenal,w,1,19/4/26
+Sunderland,Aston Villa,l,-1,19/4/26
+Liverpool,Everton,w,1,19/4/26
+Burnley,Nott'm Forest,l,-3,19/4/26
+Everton,Liverpool,l,-1,19/4/26
+Arsenal,Man City,l,-1,19/4/26
+Aston Villa,Sunderland,w,1,19/4/26
+Crystal Palace,West Ham,d,0,20/4/26
+West Ham,Crystal Palace,d,0,20/4/26
+Brighton,Chelsea,w,3,21/4/26
+Chelsea,Brighton,l,-3,21/4/26
+Leeds,Bournemouth,d,0,22/4/26
+Man City,Burnley,w,1,22/4/26
+Bournemouth,Leeds,d,0,22/4/26
+Burnley,Man City,l,-1,22/4/26
+Nott'm Forest,Sunderland,w,5,24/4/26
+Sunderland,Nott'm Forest,l,-5,24/4/26
+Wolves,Tottenham,l,-1,25/4/26
+West Ham,Everton,w,1,25/4/26
+Liverpool,Crystal Palace,w,2,25/4/26
+Fulham,Aston Villa,w,1,25/4/26
+Tottenham,Wolves,w,1,25/4/26
+Crystal Palace,Liverpool,l,-2,25/4/26
+Everton,West Ham,l,-1,25/4/26
+Arsenal,Newcastle,w,1,25/4/26
+Newcastle,Arsenal,l,-1,25/4/26
+Aston Villa,Fulham,l,-1,25/4/26
+Brentford,Man United,l,-1,27/4/26
+Man United,Brentford,w,1,27/4/26
+Burnley,Leeds,l,-2,1/5/26
+Leeds,Burnley,w,2,1/5/26
+Brentford,West Ham,w,3,2/5/26
+Newcastle,Brighton,w,2,2/5/26
+Wolves,Sunderland,d,0,2/5/26
+Fulham,Arsenal,l,-3,2/5/26
+Sunderland,Wolves,d,0,2/5/26
+Brighton,Newcastle,l,-2,2/5/26
+West Ham,Brentford,l,-3,2/5/26
+Arsenal,Fulham,w,3,2/5/26
+Bournemouth,Crystal Palace,w,3,3/5/26
+Man United,Liverpool,w,1,3/5/26
+Aston Villa,Tottenham,l,-1,3/5/26
+Tottenham,Aston Villa,w,1,3/5/26
+Liverpool,Man United,l,-1,3/5/26
+Crystal Palace,Bournemouth,l,-3,3/5/26
+Everton,Man City,d,0,4/5/26
+Man City,Everton,d,0,4/5/26
+Nott'm Forest,Chelsea,w,2,4/5/26
+Chelsea,Nott'm Forest,l,-2,4/5/26
+Bournemouth,Fulham,w,1,9/5/26
+Chelsea,Liverpool,d,0,9/5/26
+Wolves,Brighton,l,-3,9/5/26
+Brentford,Man City,l,-3,9/5/26
+Sunderland,Man United,d,0,9/5/26
+Liverpool,Chelsea,d,0,9/5/26
+Man United,Sunderland,d,0,9/5/26
+Brighton,Wolves,w,3,9/5/26
+Fulham,Bournemouth,l,-1,9/5/26
+Man City,Brentford,w,3,9/5/26
+West Ham,Arsenal,l,-1,10/5/26
+Aston Villa,Burnley,d,0,10/5/26
+Nott'm Forest,Newcastle,d,0,10/5/26
+Crystal Palace,Everton,d,0,10/5/26
+Burnley,Aston Villa,d,0,10/5/26
+Everton,Crystal Palace,d,0,10/5/26
+Arsenal,West Ham,w,1,10/5/26
+Newcastle,Nott'm Forest,d,0,10/5/26
+Leeds,Tottenham,d,0,11/5/26
+Tottenham,Leeds,d,0,11/5/26
+Crystal Palace,Man City,l,-3,13/5/26
+Man City,Crystal Palace,w,3,13/5/26
+Liverpool,Aston Villa,l,-2,15/5/26
+Aston Villa,Liverpool,w,2,15/5/26
+Everton,Sunderland,l,-2,17/5/26
+Brentford,Crystal Palace,d,0,17/5/26
+Leeds,Brighton,w,1,17/5/26
+Wolves,Fulham,d,0,17/5/26
+Fulham,Wolves,d,0,17/5/26
+Brighton,Leeds,l,-1,17/5/26
+Sunderland,Everton,w,2,17/5/26
+Crystal Palace,Brentford,d,0,17/5/26
+Nott'm Forest,Man United,l,-1,17/5/26
+West Ham,Newcastle,l,-2,17/5/26
+Man United,Nott'm Forest,w,1,17/5/26
+Newcastle,West Ham,w,2,17/5/26
+Burnley,Arsenal,l,-1,18/5/26
+Arsenal,Burnley,w,1,18/5/26
+Tottenham,Chelsea,l,-1,19/5/26
+Chelsea,Tottenham,w,1,19/5/26
+Bournemouth,Man City,d,0,19/5/26
+Man City,Bournemouth,d,0,19/5/26
+Man United,Brighton,w,3,24/5/26
+Wolves,Burnley,d,0,24/5/26
+Arsenal,Crystal Palace,w,1,24/5/26
+Newcastle,Fulham,l,-2,24/5/26
+Aston Villa,Man City,w,1,24/5/26
+Bournemouth,Nott'm Forest,d,0,24/5/26
+Chelsea,Sunderland,l,-1,24/5/26
+Brentford,Liverpool,d,0,24/5/26
+West Ham,Leeds,w,3,24/5/26
+Tottenham,Everton,w,1,24/5/26
+Sunderland,Chelsea,w,1,24/5/26
+Nott'm Forest,Bournemouth,d,0,24/5/26
+Man City,Aston Villa,l,-1,24/5/26
+Liverpool,Brentford,d,0,24/5/26
+Fulham,Newcastle,w,2,24/5/26
+Crystal Palace,Arsenal,l,-1,24/5/26
+Burnley,Wolves,d,0,24/5/26
+Brighton,Man United,l,-3,24/5/26
+Everton,Tottenham,l,-1,24/5/26
+Leeds,West Ham,l,-3,24/5/26
