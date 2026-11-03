@@ -24,4 +24,4 @@ Training data is based on 2025-2026 season of prem league
 
 ## Improvements
 
-More datais needed to increase the accuracy of predictions
+More data is needed to increase the accuracy of predictions
